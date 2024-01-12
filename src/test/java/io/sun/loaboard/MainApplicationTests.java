@@ -1,10 +1,10 @@
-package io.cloudtype.Demo;
+package io.sun.loaboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class MainApplicationTests {
 
 	@Test
 	void contextLoads() {
